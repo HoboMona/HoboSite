@@ -1,0 +1,103 @@
+html{
+	background-color:#857c1d;
+}
+.header{
+	padding:10px 16px ;
+	border-radius:10px;
+	background-color:greenyellow;
+}
+.dkv1{
+	margin-left:5px;
+	padding:10px ;
+	color:red;
+	border-radius:20px ;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dkv2{
+	margin-left:10px;
+	padding:10px;
+	color:red;
+	border-radius:20px;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dkv3{
+	margin-left:15px;
+	padding:10px ;
+	color:red;
+	border-radius:20px ;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dkv4{
+	margin-left:20px;
+	padding:10px ;
+	color:red;
+	border-radius:20px ;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dkv5{
+	margin-left:25px;
+	padding:10px ;
+	color:red;
+	border-radius:20px ;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.dkv6{
+	margin-left:30px;
+	padding:10px ;
+	color:red;
+	border-radius:20px ;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;	
+}
+.dkv7{
+	margin-left:200px;
+	padding:10px ;
+	color:red;
+	border-radius:20px ;
+	font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+	border-radius:10px;
+}
+.secs{
+	background-color: black;
+	padding:100px;
+	margin-top:1000px;
+	color:white;
+	text-align:center;
+	font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.videos{
+	color:blueviolet;
+	text-align:center;
+	font-family:sans-serif;
+}
+.pop{
+	margin-left:50px;
+}
+.der{
+	border-radius:20px;
+}
+.sus{
+	font-family: Arial, Helvetica, sans-serif;
+	color:gold ;
+}
+.fdr{
+	background-color:black ;
+	height:400px;
+	width:50%;
+	margin-left:40px;
+	margin-top:50px;
+	border-radius:20px ;
+}
+.pain{
+	font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+	color:white;
+	text-align:end;
+	padding:50px ;
+	margin-right:170px ;
+}
+.videos1{
+	color:blueviolet;
+	text-align:center;
+	font-family:sans-serif;
+}
